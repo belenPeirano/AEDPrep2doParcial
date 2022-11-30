@@ -1,6 +1,6 @@
 Floyd: obtener el camino mas corto de todos los verties a todos los vertices.
 
-Warshall: cuando quiero saber si hay camino entre dos vértices.
+Warshall: cuando quiero saber si hay camino de todos los verties a todos los vertices.
 
 Dijkstra: cuando quiero obtener los camino de un vértice a todos los demás.
 
