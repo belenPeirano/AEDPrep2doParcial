@@ -1,0 +1,13 @@
+Floyd: obtener el camino mas corto de todos los verties a todos los vertices.
+
+Warshall: cuando quiero saber si hay camino entre dos vértices.
+
+Dijkstra: cuando quiero obtener los camino de un vértice a todos los demás.
+
+Bpf: para recorrer todos los vértices yendo hasta el final de cada rama y luego volviendo y yendo por la siguiente. Ver si llegas de un lado a otro
+
+Bea: para recorrer todos los vértices en orden de cantidad de aristas desde el inicio (obteniendo niveles), como haciendo círculos. Se usa si la letra dice que esten alejados a 3 niveles.
+
+Prim: conectar todos los vertices con el menor costo posible.
+
+Kruskal: lo mismo
