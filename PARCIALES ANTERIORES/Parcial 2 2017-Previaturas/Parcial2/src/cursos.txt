@@ -1,0 +1,15 @@
+Ingreso,0
+Calculo1,4
+Calculo2,2
+Algebra1,2
+IntroIngenieria,1
+CommSkills,1
+Programacion1,2
+Programacion2,3
+AED1,2
+AED2,5
+MatDiscreta,2
+TeoComp,2
+IntArtificial,3
+IngSoftware,2
+Graduacion,0

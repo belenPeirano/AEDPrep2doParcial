@@ -1,0 +1,13 @@
+compilaciones para 	junit
+	core
+	junit
+compilaciones para 	antlr
+	core
+	velocity-tools
+	struts-taglib
+	struts-tiles
+	struts-core
+	commons-chain
+	mevir-util
+	commons-validator
+	antlr
