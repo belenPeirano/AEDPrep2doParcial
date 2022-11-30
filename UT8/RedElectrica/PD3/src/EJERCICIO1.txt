@@ -1,0 +1,3 @@
+Este problema se puede resolver con el algoritmo de Prim para grafos no dirigidos, se cargan los datos de barrios como vértices y las distancias como aristas, y luego, con el algoritmo de Prim se obtienen las menores distancias entre cada barrio.
+
+El orden de tiempo de ejecución es el mismo que el del algoritmo de Prim, que es O(N**2)
