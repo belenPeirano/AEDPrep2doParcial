@@ -3,16 +3,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package ut7.tdagrafo;
+package ut9.tdagrafodirigido;
 
 /**
  *
  * @author belu_
  */
-public class TDAGrafo {
+public class TDAGrafoDirigido {
 
     public static void main(String[] args) {
-        TGrafoDirigido gd = (TGrafoDirigido) UtilGrafos.cargarGrafo(".\\src\\aeropuertos_1.txt", ".\\src\\conexiones_1.txt",
+        TGrafoDirigido gd = (TGrafoDirigido) UtilGrafos.cargarGrafo(".\\src\\main\\java\\ut9\\tdagrafodirigido\\aeropuertos_1.txt", "\\src\\main\\java\\ut9\\tdagrafodirigido\\conexiones_1.txt",
                 false, TGrafoDirigido.class);
 
         

@@ -1,4 +1,4 @@
-package ut7.tdagrafo;
+package ut9.tdagrafodirigido;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

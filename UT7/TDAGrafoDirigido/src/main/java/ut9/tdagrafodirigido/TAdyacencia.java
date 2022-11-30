@@ -1,4 +1,4 @@
-package ut7.tdagrafo;
+package ut9.tdagrafodirigido;
 
 
 public class TAdyacencia implements IAdyacencia {
